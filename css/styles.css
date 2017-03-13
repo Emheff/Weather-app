@@ -6,6 +6,17 @@ body {
     background: #c1c1c1;
 }
 
+.city {
+  color: red;
+}
+
+.state {
+  color: green;
+}
+
+.temp {
+   color: blue;
+}
 
 /********************
 MEDIA QUERIES
