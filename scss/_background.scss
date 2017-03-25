@@ -1,0 +1,32 @@
+// Store Background Colors
+$bg0 : url(../img/elephant.jpg);
+$bg1 : url(../img/goats.jpeg);
+$bg2 : url(../img/duck.jpeg);
+$bg3 : url(../img/deer.jpeg);
+$bg4 : url(../img/goats.jpeg);
+$bg5 : url(../img/pig.jpeg);
+$bg6 : url(../img/pork.jpeg);
+
+
+
+.bg0 {
+  background: $bg0;
+}
+.bg1 {
+  background: $bg1;
+}
+.bg2 {
+  background: $bg2;
+}
+.bg3 {
+  background: $bg3;
+}
+.bg4 {
+  background: $bg4;
+}
+.bg5 {
+  background: $bg5;
+}
+.bg6 {
+  background: $bg6;
+}
